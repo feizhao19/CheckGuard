@@ -72,8 +72,8 @@ conda install nb_conda_kernels
     ```
 
 
-```
-## PEFT Command:
+
+## PEFT Command for fine-tuning:
 
 
 ```Shell
@@ -84,6 +84,7 @@ CUDA_VISIBLE_DEVICES=0,1 bash scripts_peft/mistral/lora/llava-lora-mistral-r128a
 
 ```
 
+Thanks to the authors of [LLaVA-1.5](https://github.com/haotian-liu/LLaVA) for their foundational code and contributions.
 
 ## Related Projects
 
