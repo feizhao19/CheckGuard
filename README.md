@@ -42,7 +42,7 @@ conda install nb_conda_kernels
 
 ## Training Scripts
 
-- All PEFT-based models' training scripts are stored in the `peft-script` folder in the repo.
+- All PEFT-based models' training scripts are stored in the `script-peft` folder in the repo.
 
 ## Inference
 
@@ -66,7 +66,6 @@ conda install nb_conda_kernels
                     "value": "The dollar amount on the check is $355.00."
                 }
             ],
-            "image_prompt": "image_caption/train/photo_7167@25-02-2022_18-36-29_0.png"
         },
         ...
     ]
