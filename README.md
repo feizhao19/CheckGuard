@@ -34,6 +34,7 @@ conda install nb_conda_kernels
 # please try running the command below (without #)
 # pip install flash-attn --no-build-isolation --no-cache-dir
 
+```
 
 ## Models
 
