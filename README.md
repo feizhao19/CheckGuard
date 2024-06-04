@@ -39,7 +39,7 @@ conda install nb_conda_kernels
 
 ## Models
 
-- All models are stored [here](https://drive.google.com/drive/folders/1rNT26fInFuduqmKgZpwcx8RjuQ3jDc4n?usp=sharing).
+- All models are stored [here](https://huggingface.co/larry5/CheckGuard/tree/main).
 
 ## Data Visualization Code
 
