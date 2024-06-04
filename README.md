@@ -52,7 +52,7 @@ conda install nb_conda_kernels
 
 ## Inference
 
-- To run inference with the PEFT models, please use the `inference.ipynb` file in the `cikm` folder.
+- To run inference with the PEFT models, please use the `inference.ipynb` file in the `cikm-resource` folder.
 
 ## Custom Data Training
 
@@ -76,7 +76,7 @@ conda install nb_conda_kernels
         ...
     ]
     ```
-
+- The data generation code is provided in `generate_json/other_class.ipynb` file in the `cikm-resource` folder.
 
 
 ## PEFT Command for fine-tuning:
@@ -85,7 +85,7 @@ conda install nb_conda_kernels
 ```Shell
 
 # fine-tuning mistral model with two gpus
-CUDA_VISIBLE_DEVICES=0,1 bash scripts_peft/mistral/lora/llava-lora-mistral-r128a256/subimage/amount/finetune_lora_llava_mistral.sh 
+bash scripts_peft/mistral/lora/llava-lora-mistral-r128a256/wholeimage/bank_no/finetune_lora_llava_mistral.sh "0,1"  
 
 
 ```
