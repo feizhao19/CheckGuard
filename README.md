@@ -76,7 +76,7 @@ conda install nb_conda_kernels
         ...
     ]
     ```
-- The data generation code is provided in `generate_json/other_class.ipynb` file in the `cikm-resource` folder.
+- The data generation code is provided in `cikm-resource/generate_json/other_class.ipynb` file.
 
 
 ## PEFT Command for fine-tuning:
