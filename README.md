@@ -41,9 +41,14 @@ conda install nb_conda_kernels
 
 - All models are stored [here](https://huggingface.co/larry5/CheckGuard/tree/main).
 
+## Data Loading Code
+
+- The code for data loading is provided in the `data_visualization/data_loading.ipynb` file.
+
+
 ## Data Visualization Code
 
-- The code for data visualization is provided in the data_visualization folder
+- The code for data visualization is provided in the `data_visualization/data_visualization.ipynb` file.
 ![Data Visualization](images/visualization.png)
 
 ## Training Scripts
