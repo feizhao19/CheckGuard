@@ -4,6 +4,7 @@
 
 
 
+
 ## Install
 
 If you are not using Linux, do *NOT* proceed, see instructions for [macOS](https://github.com/haotian-liu/LLaVA/blob/main/docs/macOS.md) and [Windows](https://github.com/haotian-liu/LLaVA/blob/main/docs/Windows.md).
@@ -39,6 +40,11 @@ conda install nb_conda_kernels
 ## Models
 
 - All models are stored [here](https://drive.google.com/drive/folders/1rNT26fInFuduqmKgZpwcx8RjuQ3jDc4n?usp=sharing).
+
+## Data Visualization Code
+
+- The code for data visualization is provided in the data_visualization folder
+![Data Visualization](images/visualization.png)
 
 ## Training Scripts
 
