@@ -49,7 +49,6 @@ conda install nb_conda_kernels
 ## Data Visualization Code
 
 - The code for data visualization is provided in the `data_visualization/data_visualization.ipynb` file.
-![Data Visualization](images/visualization.png)
 
 ## Training Scripts
 
