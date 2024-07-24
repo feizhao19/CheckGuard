@@ -1,6 +1,6 @@
 # CheckGuard: Advancing Stolen Check Detection with a Cross-Modal Image-Text Benchmark Dataset
 
-**This paper is for CIKM 2024 Resource Paper.**
+**This paper is accepted by CIKM 2024.**
 
 
 
