@@ -7,6 +7,10 @@
 
 Fei Zhao, Jiawen Chen, Bin Huang, Chengcui Zhang, and Gary Warner. CheckGuard: Advancing Stolen Check Detection with a Cross-Modal Image-Text Benchmark Dataset. 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024). 
 
+## Data Access
+
+For access, pls contact Dr. Chengcui Zhang (czhang02@uab.edu) and Gary Warner (gar@uab.edu). Thanks. 
+
 
 ## Install
 
